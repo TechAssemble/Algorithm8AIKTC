@@ -31,25 +31,25 @@ To utilize these modules, follow the steps below:
 
 1. Clone this repository:
     ```
-    git clone https://github.com/your-username/ObjectDetection-DistanceMeasurement.git
+    git clone https://github.com/TechAssemble/Algorithm8AIKTC.git
     ```
 
 2. Navigate to the respective directories:
     - `cd ObjectDetection` for the Object Detection module.
-    - `cd DistanceMeasurement` for the Distance Measurement module.
+    - `cd Distance_measurement_using_single_camera-main` for the Distance Measurement module.
 
-3. Install dependencies:
+3. Install dependencies: (Do this in their respective directory)
     ```
     pip install -r requirements.txt
     ```
 
 ## Usage
 
-### Object Detection:
+### Object Detection: (Do this in their respective directory)
 
 1. Run the object detection script:
     ```
-    python object_detection.py
+    python yolov8_n_opencv.py
     ```
 
 2. Ensure that a live camera feed is available for real-time object detection.
@@ -58,7 +58,7 @@ To utilize these modules, follow the steps below:
 
 1. Execute the distance measurement script:
     ```
-    python distance_measurement.py
+    python Updated_distance.py
     ```
 
 2. Make sure the LiDAR device is properly configured and connected for accurate distance measurements.
@@ -74,10 +74,6 @@ Contributions to this project are welcome. If you would like to contribute, plea
 5. Push to the branch (`git push origin feature/improvement`).
 6. Create a new Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - Special thanks to the creators and contributors of YOLOv8 and LiDAR technologies for their innovative solutions.
@@ -87,8 +83,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any inquiries or feedback regarding this project, please contact:
 
-- Your Name
-- Email: your@email.com
+- Geeks Assemble
+- Email: faidabazaar7@gmail.com
 
 ---
 
