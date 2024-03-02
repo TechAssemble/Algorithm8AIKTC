@@ -87,5 +87,3 @@ For any inquiries or feedback regarding this project, please contact:
 - Email: faidabazaar7@gmail.com
 
 ---
-
-Feel free to customize the README with additional information or sections as needed. Let me know if you need further assistance!
